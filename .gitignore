@@ -105,3 +105,10 @@ venv.bak/
 
 .ipython
 .local
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter
+.local
+.ipython
