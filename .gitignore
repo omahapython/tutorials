@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.ipython
+.local
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter
+.local
+.ipython
